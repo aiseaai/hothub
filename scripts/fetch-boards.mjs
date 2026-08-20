@@ -42,7 +42,8 @@ async function get(url, headers = {}) {
 /* ---------- 通用工具 ---------- */
 
 function decodeHtml(s) {
-  return s
+  return String(s ?? "")
+    .replace(/<!\[CDATA\[|\]\]>/g, "")
     .replace(/<[^>]+>/g, "")
     .replace(/&amp;/g, "&")
     .replace(/&lt;/g, "<")
@@ -274,6 +275,31 @@ async function fetchNga() {
   return out;
 }
 
+/* ---------- RSS（通用，用于国际财经源） ---------- */
+
+async function fetchRss(url, limit = 30) {
+  const xml = await get(url);
+  const items = [];
+  const re = /<item>([\s\S]*?)<\/item>/g;
+  let m;
+  while ((m = re.exec(xml)) !== null) {
+    const it = m[1];
+    const titleM = it.match(/<title>(.*?)<\/title>/s);
+    const linkM = it.match(/<link>(.*?)<\/link>/s);
+    if (!titleM || !linkM) continue;
+    items.push({
+      rank: items.length + 1,
+      title: decodeHtml(titleM[1]),
+      url: decodeHtml(linkM[1]),
+      heat: null,
+      heatNum: null,
+    });
+    if (items.length >= limit) break;
+  }
+  if (!items.length) throw new Error("rss 无条目");
+  return items;
+}
+
 /* ---------- 榜单配置 ---------- */
 
 const BOARDS = [
@@ -304,13 +330,32 @@ const BOARDS = [
     group: "视频娱乐",
     tabs: [
       { id: "hot", label: "热点榜", source: "tophub", node: "K7GdaMgdQy" },
-      { id: "video", label: "视频总榜", source: "tophub", node: "DpQvNABoNE" },
+      { id: "total", label: "总榜", source: "tophub", node: "DpQvNABoNE" },
+      { id: "video", label: "视频总榜", source: "tophub", node: "yjvQ9wDvbg" },
       { id: "ent", label: "娱乐榜", source: "tophub", node: "2me33NBewj" },
       { id: "food", label: "美食榜", source: "tophub", node: "aEdZWyBerO" },
       { id: "sports", label: "体育榜", source: "tophub", node: "3adqqzadng" },
-      { id: "tech", label: "科技榜", source: "tophub", node: "MZd7N2OvrO" },
       { id: "finance", label: "财经榜", source: "tophub", node: "2me3N3xdwj" },
+      { id: "tech", label: "科技榜", source: "tophub", node: "MZd7N2OvrO" },
       { id: "travel", label: "旅行榜", source: "tophub", node: "2KeDMgAoNP" },
+      { id: "car", label: "汽车榜", source: "tophub", node: "KGoRwZbvl6" },
+      { id: "drama", label: "剧情榜", source: "tophub", node: "aEdZyWXvrO" },
+      { id: "game", label: "游戏榜", source: "tophub", node: "YKd6MGqvaP" },
+      { id: "pictext", label: "图文控榜", source: "tophub", node: "2KeDgMQdNP" },
+      { id: "edu", label: "文化教育榜", source: "tophub", node: "JndkmwLo3V" },
+      { id: "fashion", label: "时尚榜", source: "tophub", node: "VaobyZGeAj" },
+      { id: "parenting", label: "亲子榜", source: "tophub", node: "wkvljZqez1" },
+      { id: "nature", label: "动植物榜", source: "tophub", node: "Dgey135eZq" },
+      { id: "campus", label: "校园榜", source: "tophub", node: "4qv9N21daK" },
+      { id: "acg", label: "二次元榜", source: "tophub", node: "Ywv4NVxePa" },
+      { id: "star", label: "明星榜", source: "tophub", node: "RrvWy7Re5z" },
+      { id: "talent", label: "才艺榜", source: "tophub", node: "BwdGrXjvPx" },
+      { id: "rural", label: "三农榜", source: "tophub", node: "6YoVyWDeZa" },
+      { id: "outdoor", label: "户外榜", source: "tophub", node: "47o8k3jeMm" },
+      { id: "charity", label: "公益榜", source: "tophub", node: "5PdMX1Zvmg" },
+      { id: "creative", label: "创意榜", source: "tophub", node: "DOvnMl1oEB" },
+      { id: "vlog", label: "随拍榜", source: "tophub", node: "3adqzqZeng" },
+      { id: "life", label: "泛生活榜", source: "tophub", node: "Dgey31RvZq" },
     ],
   },
   {
@@ -345,6 +390,44 @@ const BOARDS = [
       { id: "monthly", label: "本月", source: "github-trending", since: "monthly" },
     ],
   },
+  // ---------- 财经（国内） ----------
+  { id: "xueqiu", name: "雪球", group: "财经", tabs: [{ id: "hot", label: "今日话题", source: "tophub", node: "X12owXzvNV" }] },
+  { id: "eastmoney-guba", name: "东方财富股吧", group: "财经", tabs: [{ id: "hot", label: "热榜", source: "tophub", node: "rx9ozQbeXb" }] },
+  {
+    id: "wallstreetcn",
+    name: "华尔街见闻",
+    group: "财经",
+    tabs: [
+      { id: "daily", label: "日排行", source: "tophub", node: "G2me3ndwjq" },
+      { id: "news", label: "最新资讯", source: "tophub", node: "wWmoO8kv4E" },
+      { id: "weekly", label: "周排行", source: "tophub", node: "ENeYEXpeY4" },
+    ],
+  },
+  { id: "cls", name: "财联社", group: "财经", tabs: [{ id: "hot", label: "热门文章", source: "tophub", node: "qndg5MpoLl" }] },
+  { id: "sina-finance", name: "新浪财经", group: "财经", tabs: [{ id: "hot", label: "国内滚动", source: "tophub", node: "JndkwJAd3V" }] },
+  {
+    id: "yicai",
+    name: "第一财经",
+    group: "财经",
+    tabs: [
+      { id: "top", label: "头条", source: "tophub", node: "1Vd5rL8e85" },
+      { id: "week", label: "新闻周榜", source: "tophub", node: "0MdKam4ow1" },
+    ],
+  },
+  { id: "investing-cn", name: "英为财情", group: "财经", tabs: [{ id: "hot", label: "最热门新闻", source: "tophub", node: "b0vm4p8oB1" }] },
+  { id: "gelonghui", name: "格隆汇", group: "财经", tabs: [{ id: "hot", label: "热文日排行", source: "tophub", node: "KGoRAk1el6" }] },
+  { id: "eec", name: "经济观察网", group: "财经", tabs: [{ id: "hot", label: "每日热新闻", source: "tophub", node: "DOvn8x1eEB" }] },
+  { id: "21jingji", name: "21财经", group: "财经", tabs: [{ id: "hot", label: "热门", source: "tophub", node: "4Kvx5R0dkx" }] },
+  { id: "jisilu", name: "集思录", group: "财经", tabs: [{ id: "hot", label: "今日热门榜", source: "tophub", node: "47o8K20eMm" }] },
+  { id: "nikkei-cn", name: "日经中文网", group: "财经", tabs: [{ id: "hot", label: "每日最新", source: "tophub", node: "3QeLXl9e7k" }] },
+
+  // ---------- 国际财经 ----------
+  { id: "yahoo-finance", name: "Yahoo Finance", group: "国际财经", tabs: [{ id: "hot", label: "Top News", source: "rss", url: "https://finance.yahoo.com/news/rssindex" }] },
+  { id: "cnbc", name: "CNBC", group: "国际财经", tabs: [{ id: "hot", label: "Top News", source: "rss", url: "https://www.cnbc.com/id/100003114/device/rss/rss.html" }] },
+  { id: "marketwatch", name: "MarketWatch", group: "国际财经", tabs: [{ id: "hot", label: "Top Stories", source: "rss", url: "https://feeds.content.dowjones.io/public/rss/mw_topstories" }] },
+  { id: "investing", name: "Investing.com", group: "国际财经", tabs: [{ id: "hot", label: "News", source: "rss", url: "https://www.investing.com/rss/news.rss" }] },
+  { id: "ftchinese", name: "FT中文网", group: "国际财经", tabs: [{ id: "hot", label: "新闻", source: "rss", url: "https://www.ftchinese.com/rss/news" }] },
+
   {
     id: "hackernews",
     name: "Hacker News",
@@ -374,6 +457,7 @@ const FETCHERS = {
   hn: (tab) => fetchHN(tab.type),
   "github-trending": (tab) => fetchGithubTrending(tab.since),
   "rsshub-nga": () => fetchNga(),
+  rss: (tab) => fetchRss(tab.url),
 };
 
 /* ---------- 主流程 ---------- */

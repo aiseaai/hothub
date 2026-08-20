@@ -1,0 +1,13 @@
+{
+  "name": "hothub",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "HotHub 全网热榜聚合 - 数据抓取脚本",
+  "scripts": {
+    "fetch": "node scripts/fetch-boards.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

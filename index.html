@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>HotHub · 全网热榜聚合</title>
+  <meta name="description" content="一站式查看全网各平台热榜：微博、知乎、抖音、B站、HN、Reddit……" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔥</text></svg>" />
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+  <div id="app">
+    <aside id="sidebar">
+      <div class="sidebar-head">
+        <span class="logo">🔥</span>
+        <span class="brand">HotHub</span>
+        <button id="theme-toggle" class="icon-btn" title="切换主题" aria-label="切换主题">🌙</button>
+      </div>
+      <nav id="nav"></nav>
+      <div class="sidebar-foot">
+        <span id="data-time">--</span>
+      </div>
+    </aside>
+
+    <div id="mask" class="mask"></div>
+
+    <main id="main">
+      <header class="main-head">
+        <button id="menu-btn" class="icon-btn" title="菜单" aria-label="菜单">☰</button>
+        <h1 id="board-title">全网热榜</h1>
+        <div class="head-actions">
+          <span id="board-update" class="muted"></span>
+          <button id="reload-btn" class="ghost-btn" title="重新加载数据">↻</button>
+        </div>
+      </header>
+
+      <div id="tabs" class="tabs"></div>
+      <div id="dims" class="dims"></div>
+
+      <section id="list" class="list"></section>
+
+      <footer class="main-foot">
+        <p>数据由 GitHub Actions 每小时自动抓取（tophub.today / Bilibili / Reddit / Hacker News / GitHub / RSSHub），榜单排名与热度均为各平台官方口径。</p>
+      </footer>
+    </main>
+  </div>
+
+  <script src="assets/js/app.js"></script>
+</body>
+</html>

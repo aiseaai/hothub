@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T14:58:07.429Z",
+  "updatedAt": "2026-08-20T15:00:42.617Z",
   "source": "tophub.today / bilibili / reddit / hackernews / github / rsshub",
   "boards": [
     {
@@ -222,7 +222,7 @@
               "heatNum": 170000
             }
           ],
-          "updateTime": "2026-08-20T14:53:17.500Z"
+          "updateTime": "2026-08-20T14:58:45.694Z"
         },
         {
           "id": "topic",
@@ -299,7 +299,7 @@
               "heatNum": null
             }
           ],
-          "updateTime": "2026-08-20T14:53:21.265Z"
+          "updateTime": "2026-08-20T14:58:47.957Z"
         },
         {
           "id": "society",
@@ -516,7 +516,7 @@
               "heatNum": 155000
             }
           ],
-          "updateTime": "2026-08-20T14:53:22.163Z"
+          "updateTime": "2026-08-20T14:58:48.120Z"
         },
         {
           "id": "ent",
@@ -649,7 +649,7 @@
               "heatNum": 87000
             }
           ],
-          "updateTime": "2026-08-20T14:53:23.505Z"
+          "updateTime": "2026-08-20T14:58:48.220Z"
         }
       ]
     },
@@ -873,7 +873,7 @@
               "heatNum": 5143000
             }
           ],
-          "updateTime": "2026-08-20T14:53:26.676Z"
+          "updateTime": "2026-08-20T14:58:49.611Z"
         }
       ]
     },
@@ -1020,7 +1020,7 @@
               "heatNum": 470000
             }
           ],
-          "updateTime": "2026-08-20T14:53:31.184Z"
+          "updateTime": "2026-08-20T14:58:51.146Z"
         }
       ]
     },
@@ -1244,7 +1244,7 @@
               "heatNum": null
             }
           ],
-          "updateTime": "2026-08-20T14:53:33.903Z"
+          "updateTime": "2026-08-20T14:58:52.945Z"
         }
       ]
     },
@@ -1468,7 +1468,7 @@
               "heatNum": 60000
             }
           ],
-          "updateTime": "2026-08-20T14:53:40.015Z"
+          "updateTime": "2026-08-20T14:58:57.143Z"
         }
       ]
     },
@@ -1685,7 +1685,7 @@
               "heatNum": 590000
             }
           ],
-          "updateTime": "2026-08-20T14:53:42.703Z"
+          "updateTime": "2026-08-20T14:58:59.169Z"
         }
       ]
     },
@@ -1755,7 +1755,7 @@
               "heatNum": null
             }
           ],
-          "updateTime": "2026-08-20T14:53:46.062Z"
+          "updateTime": "2026-08-20T14:59:00.946Z"
         }
       ]
     },
@@ -1979,7 +1979,7 @@
               "heatNum": 7401
             }
           ],
-          "updateTime": "2026-08-20T14:53:48.559Z"
+          "updateTime": "2026-08-20T14:59:02.997Z"
         }
       ]
     },
@@ -2056,7 +2056,7 @@
               "heatNum": 5
             }
           ],
-          "updateTime": "2026-08-20T14:53:54.560Z"
+          "updateTime": "2026-08-20T14:59:06.902Z"
         }
       ]
     },
@@ -2280,7 +2280,7 @@
               "heatNum": 50
             }
           ],
-          "updateTime": "2026-08-20T14:53:56.765Z"
+          "updateTime": "2026-08-20T14:59:08.980Z"
         }
       ]
     },
@@ -2503,7 +2503,7 @@
               "heatNum": 7644000
             }
           ],
-          "updateTime": "2026-08-20T14:54:20.847Z"
+          "updateTime": "2026-08-20T14:59:19.646Z"
         },
         {
           "id": "total",
@@ -2650,7 +2650,7 @@
               "heatNum": 12921754
             }
           ],
-          "updateTime": "2026-08-20T14:54:22.318Z"
+          "updateTime": "2026-08-20T14:59:19.771Z"
         },
         {
           "id": "video",
@@ -2846,7 +2846,7 @@
               "heatNum": 13973000
             }
           ],
-          "updateTime": "2026-08-20T14:54:23.119Z"
+          "updateTime": "2026-08-20T14:59:19.902Z"
         },
         {
           "id": "ent",
@@ -2986,7 +2986,7 @@
               "heatNum": 4611652
             }
           ],
-          "updateTime": "2026-08-20T14:54:24.241Z"
+          "updateTime": "2026-08-20T14:59:20.034Z"
         },
         {
           "id": "food",
@@ -3133,7 +3133,7 @@
               "heatNum": 3684066
             }
           ],
-          "updateTime": "2026-08-20T14:54:25.801Z"
+          "updateTime": "2026-08-20T14:59:20.157Z"
         },
         {
           "id": "sports",
@@ -3280,7 +3280,7 @@
               "heatNum": 3595072
             }
           ],
-          "updateTime": "2026-08-20T14:54:27.963Z"
+          "updateTime": "2026-08-20T14:59:20.285Z"
         },
         {
           "id": "finance",
@@ -3378,7 +3378,7 @@
               "heatNum": 1821353
             }
           ],
-          "updateTime": "2026-08-20T14:54:29.577Z"
+          "updateTime": "2026-08-20T14:59:20.408Z"
         },
         {
           "id": "tech",
@@ -3525,7 +3525,7 @@
               "heatNum": 2059529
             }
           ],
-          "updateTime": "2026-08-20T14:54:30.912Z"
+          "updateTime": "2026-08-20T14:59:20.533Z"
         },
         {
           "id": "travel",
@@ -3644,7 +3644,7 @@
               "heatNum": 2553364
             }
           ],
-          "updateTime": "2026-08-20T14:54:32.268Z"
+          "updateTime": "2026-08-20T14:59:20.653Z"
         },
         {
           "id": "car",
@@ -3791,7 +3791,7 @@
               "heatNum": 3251910
             }
           ],
-          "updateTime": "2026-08-20T14:54:33.361Z"
+          "updateTime": "2026-08-20T14:59:20.790Z"
         },
         {
           "id": "drama",
@@ -3938,7 +3938,7 @@
               "heatNum": 8316138
             }
           ],
-          "updateTime": "2026-08-20T14:54:34.393Z"
+          "updateTime": "2026-08-20T14:59:20.974Z"
         },
         {
           "id": "game",
@@ -4071,7 +4071,7 @@
               "heatNum": 4053326
             }
           ],
-          "updateTime": "2026-08-20T14:54:35.448Z"
+          "updateTime": "2026-08-20T14:59:21.106Z"
         },
         {
           "id": "pictext",
@@ -4218,7 +4218,7 @@
               "heatNum": 1204793
             }
           ],
-          "updateTime": "2026-08-20T14:54:37.193Z"
+          "updateTime": "2026-08-20T14:59:21.233Z"
         },
         {
           "id": "edu",
@@ -4358,7 +4358,7 @@
               "heatNum": 4329426
             }
           ],
-          "updateTime": "2026-08-20T14:54:38.825Z"
+          "updateTime": "2026-08-20T14:59:21.369Z"
         },
         {
           "id": "fashion",
@@ -4484,7 +4484,7 @@
               "heatNum": 2804012
             }
           ],
-          "updateTime": "2026-08-20T14:54:39.889Z"
+          "updateTime": "2026-08-20T14:59:21.494Z"
         },
         {
           "id": "parenting",
@@ -4631,7 +4631,7 @@
               "heatNum": 3561816
             }
           ],
-          "updateTime": "2026-08-20T14:54:41.095Z"
+          "updateTime": "2026-08-20T14:59:21.615Z"
         },
         {
           "id": "nature",
@@ -4778,7 +4778,7 @@
               "heatNum": 3650168
             }
           ],
-          "updateTime": "2026-08-20T14:54:42.633Z"
+          "updateTime": "2026-08-20T14:59:21.741Z"
         },
         {
           "id": "campus",
@@ -4911,7 +4911,7 @@
               "heatNum": 72811
             }
           ],
-          "updateTime": "2026-08-20T14:54:43.703Z"
+          "updateTime": "2026-08-20T14:59:21.870Z"
         },
         {
           "id": "acg",
@@ -5058,7 +5058,7 @@
               "heatNum": 3300578
             }
           ],
-          "updateTime": "2026-08-20T14:54:45.059Z"
+          "updateTime": "2026-08-20T14:59:21.989Z"
         },
         {
           "id": "star",
@@ -5205,7 +5205,7 @@
               "heatNum": 4750907
             }
           ],
-          "updateTime": "2026-08-20T14:54:45.969Z"
+          "updateTime": "2026-08-20T14:59:22.107Z"
         },
         {
           "id": "talent",
@@ -5352,7 +5352,7 @@
               "heatNum": 3839447
             }
           ],
-          "updateTime": "2026-08-20T14:54:46.979Z"
+          "updateTime": "2026-08-20T14:59:22.235Z"
         },
         {
           "id": "rural",
@@ -5492,7 +5492,7 @@
               "heatNum": 3116900
             }
           ],
-          "updateTime": "2026-08-20T14:54:48.055Z"
+          "updateTime": "2026-08-20T14:59:22.353Z"
         },
         {
           "id": "outdoor",
@@ -5625,7 +5625,7 @@
               "heatNum": 18941
             }
           ],
-          "updateTime": "2026-08-20T14:54:48.986Z"
+          "updateTime": "2026-08-20T14:59:22.485Z"
         },
         {
           "id": "charity",
@@ -5765,7 +5765,7 @@
               "heatNum": 150715
             }
           ],
-          "updateTime": "2026-08-20T14:54:49.772Z"
+          "updateTime": "2026-08-20T14:59:22.610Z"
         },
         {
           "id": "creative",
@@ -5912,7 +5912,7 @@
               "heatNum": 882006
             }
           ],
-          "updateTime": "2026-08-20T14:54:51.081Z"
+          "updateTime": "2026-08-20T14:59:22.737Z"
         },
         {
           "id": "vlog",
@@ -6059,7 +6059,7 @@
               "heatNum": 4930237
             }
           ],
-          "updateTime": "2026-08-20T14:54:51.865Z"
+          "updateTime": "2026-08-20T14:59:22.865Z"
         },
         {
           "id": "life",
@@ -6206,7 +6206,7 @@
               "heatNum": 1070808
             }
           ],
-          "updateTime": "2026-08-20T14:54:54.023Z"
+          "updateTime": "2026-08-20T14:59:22.987Z"
         }
       ]
     },
@@ -6430,7 +6430,7 @@
               "heatNum": 2750000
             }
           ],
-          "updateTime": "2026-08-20T14:54:56.907Z"
+          "updateTime": "2026-08-20T14:59:24.970Z"
         },
         {
           "id": "rank",
@@ -6466,89 +6466,89 @@
               "rank": 1,
               "title": "我这一生最大的罪，是把人写成了妖……",
               "url": "https://b23.tv/BV1rHbY6MEB9",
-              "heat": "843.8万播放",
-              "heatNum": 8437647,
+              "heat": "844.6万播放",
+              "heatNum": 8445775,
               "stats": {
-                "view": 8437647,
-                "like": 845430,
-                "coin": 719111,
-                "fav": 411587,
-                "share": 141736,
-                "reply": 26729
+                "view": 8445775,
+                "like": 846224,
+                "coin": 719924,
+                "fav": 412027,
+                "share": 141905,
+                "reply": 26756
               }
             },
             {
               "rank": 2,
               "title": "《黑神话：钟馗》15分钟实机演示",
               "url": "https://b23.tv/BV1kS8H6VERt",
-              "heat": "695.5万播放",
-              "heatNum": 6954696,
+              "heat": "698.1万播放",
+              "heatNum": 6980814,
               "stats": {
-                "view": 6954696,
-                "like": 658576,
-                "coin": 548794,
-                "fav": 166340,
-                "share": 428056,
-                "reply": 88076
+                "view": 6980814,
+                "like": 660139,
+                "coin": 549979,
+                "fav": 166692,
+                "share": 428522,
+                "reply": 88227
               }
             },
             {
               "rank": 3,
               "title": "我们不欢迎这样的客人，也不赚这种米",
               "url": "https://b23.tv/BV1Neba63EDK",
-              "heat": "430.1万播放",
-              "heatNum": 4301127,
+              "heat": "430.3万播放",
+              "heatNum": 4303100,
               "stats": {
-                "view": 4301127,
-                "like": 459865,
-                "coin": 84873,
-                "fav": 33201,
-                "share": 3747,
-                "reply": 13733
+                "view": 4303100,
+                "like": 460081,
+                "coin": 84915,
+                "fav": 33215,
+                "share": 3748,
+                "reply": 13735
               }
             },
             {
               "rank": 4,
               "title": "《商务柔道》",
               "url": "https://b23.tv/BV1cqb86hE8B",
-              "heat": "721.4万播放",
-              "heatNum": 7214344,
+              "heat": "721.9万播放",
+              "heatNum": 7219495,
               "stats": {
-                "view": 7214344,
-                "like": 520355,
-                "coin": 8831,
-                "fav": 35075,
-                "share": 4340,
-                "reply": 8554
+                "view": 7219495,
+                "like": 520627,
+                "coin": 8837,
+                "fav": 35090,
+                "share": 4346,
+                "reply": 8555
               }
             },
             {
               "rank": 5,
               "title": "一种很“嘉豪”的合成方式",
               "url": "https://b23.tv/BV18obz6BEiR",
-              "heat": "310.2万播放",
-              "heatNum": 3101703,
+              "heat": "310.3万播放",
+              "heatNum": 3102942,
               "stats": {
-                "view": 3101703,
-                "like": 463401,
-                "coin": 120579,
-                "fav": 154562,
-                "share": 19503,
-                "reply": 7287
+                "view": 3102942,
+                "like": 463669,
+                "coin": 120691,
+                "fav": 154669,
+                "share": 19518,
+                "reply": 7292
               }
             },
             {
               "rank": 6,
               "title": "七夕节老番茄就和自己玩游戏",
               "url": "https://b23.tv/BV1q28V6VEYU",
-              "heat": "311.8万播放",
-              "heatNum": 3117722,
+              "heat": "312.1万播放",
+              "heatNum": 3121029,
               "stats": {
-                "view": 3117722,
-                "like": 298532,
-                "coin": 63414,
-                "fav": 51558,
-                "share": 19930,
+                "view": 3121029,
+                "like": 298845,
+                "coin": 63462,
+                "fav": 51625,
+                "share": 19948,
                 "reply": 5953
               }
             },
@@ -6556,29 +6556,29 @@
               "rank": 7,
               "title": "忍术回战   26分钟沉浸式观看",
               "url": "https://b23.tv/BV1GNbv6ZE1N",
-              "heat": "371.5万播放",
-              "heatNum": 3714893,
+              "heat": "371.7万播放",
+              "heatNum": 3717106,
               "stats": {
-                "view": 3714893,
-                "like": 258276,
-                "coin": 92755,
-                "fav": 118015,
-                "share": 22748,
-                "reply": 9200
+                "view": 3717106,
+                "like": 258410,
+                "coin": 92811,
+                "fav": 118093,
+                "share": 22764,
+                "reply": 9204
               }
             },
             {
               "rank": 8,
               "title": "地球毁灭后，人类只剩四条路｜你会把文明带向哪里？",
               "url": "https://b23.tv/BV1DTbv6xEHK",
-              "heat": "421.7万播放",
-              "heatNum": 4216511,
+              "heat": "421.8万播放",
+              "heatNum": 4218109,
               "stats": {
-                "view": 4216511,
-                "like": 214794,
-                "coin": 25454,
-                "fav": 59358,
-                "share": 5984,
+                "view": 4218109,
+                "like": 214860,
+                "coin": 25469,
+                "fav": 59381,
+                "share": 5987,
                 "reply": 4193
               }
             },
@@ -6586,45 +6586,45 @@
               "rank": 9,
               "title": "当你相亲遇到天价嫁妆",
               "url": "https://b23.tv/BV1wqb86hEZV",
-              "heat": "594.2万播放",
-              "heatNum": 5942458,
+              "heat": "594.5万播放",
+              "heatNum": 5945182,
               "stats": {
-                "view": 5942458,
-                "like": 401821,
-                "coin": 3646,
-                "fav": 34572,
-                "share": 12182,
-                "reply": 5125
+                "view": 5945182,
+                "like": 401966,
+                "coin": 3652,
+                "fav": 34593,
+                "share": 12186,
+                "reply": 5126
               }
             },
             {
               "rank": 10,
               "title": "《影之刃零》专场 State of Play 全程回顾",
               "url": "https://b23.tv/BV1Zdbi6rER9",
-              "heat": "713.7万播放",
-              "heatNum": 7136761,
+              "heat": "714.3万播放",
+              "heatNum": 7142613,
               "stats": {
-                "view": 7136761,
-                "like": 88743,
-                "coin": 49699,
-                "fav": 20760,
-                "share": 61529,
-                "reply": 19987
+                "view": 7142613,
+                "like": 88774,
+                "coin": 49718,
+                "fav": 20770,
+                "share": 61542,
+                "reply": 19989
               }
             },
             {
               "rank": 11,
               "title": "魅力四射",
               "url": "https://b23.tv/BV1aEba6HEez",
-              "heat": "447.9万播放",
-              "heatNum": 4479389,
+              "heat": "448.2万播放",
+              "heatNum": 4481632,
               "stats": {
-                "view": 4479389,
-                "like": 361363,
-                "coin": 12235,
-                "fav": 37990,
-                "share": 13393,
-                "reply": 4812
+                "view": 4481632,
+                "like": 361577,
+                "coin": 12248,
+                "fav": 38022,
+                "share": 13408,
+                "reply": 4816
               }
             },
             {
@@ -6632,87 +6632,87 @@
               "title": "萨特：为什么你越想做自己，越容易被定义？",
               "url": "https://b23.tv/BV1pN8g6yE7m",
               "heat": "274.9万播放",
-              "heatNum": 2748747,
+              "heatNum": 2749347,
               "stats": {
-                "view": 2748747,
-                "like": 178924,
-                "coin": 7453,
-                "fav": 31349,
-                "share": 3283,
-                "reply": 2198
+                "view": 2749347,
+                "like": 178958,
+                "coin": 7459,
+                "fav": 31360,
+                "share": 3284,
+                "reply": 2199
               }
             },
             {
               "rank": 13,
               "title": "这几个片段大家可能都听过，但你们知道其实来源于同一首歌吗",
               "url": "https://b23.tv/BV1hY8g6xEwE",
-              "heat": "510.8万播放",
-              "heatNum": 5107935,
+              "heat": "511.3万播放",
+              "heatNum": 5112728,
               "stats": {
-                "view": 5107935,
-                "like": 233535,
-                "coin": 17700,
-                "fav": 137594,
-                "share": 3227,
-                "reply": 2023
+                "view": 5112728,
+                "like": 233769,
+                "coin": 17732,
+                "fav": 137683,
+                "share": 3234,
+                "reply": 2025
               }
             },
             {
               "rank": 14,
               "title": "奥特曼中 出了一个怪兽的卧底【AI全民制作人】",
               "url": "https://b23.tv/BV1wrba6iE56",
-              "heat": "636.3万播放",
-              "heatNum": 6363465,
+              "heat": "636.6万播放",
+              "heatNum": 6365677,
               "stats": {
-                "view": 6363465,
-                "like": 240426,
-                "coin": 11029,
-                "fav": 42981,
-                "share": 10982,
-                "reply": 3685
+                "view": 6365677,
+                "like": 240500,
+                "coin": 11035,
+                "fav": 43000,
+                "share": 10987,
+                "reply": 3686
               }
             },
             {
               "rank": 15,
               "title": "怪谈逃生指南第一期：《恶魔法典》",
               "url": "https://b23.tv/BV1iv8j6EE77",
-              "heat": "145.0万播放",
-              "heatNum": 1450350,
+              "heat": "145.2万播放",
+              "heatNum": 1452236,
               "stats": {
-                "view": 1450350,
-                "like": 142555,
-                "coin": 38382,
-                "fav": 36370,
-                "share": 4259,
-                "reply": 3914
+                "view": 1452236,
+                "like": 142708,
+                "coin": 38454,
+                "fav": 36419,
+                "share": 4268,
+                "reply": 3918
               }
             },
             {
               "rank": 16,
               "title": "《如常运转｜正常運転》MV：全世界都会震惊于日本的灾后重建速度",
               "url": "https://b23.tv/BV1h88g6tEQv",
-              "heat": "222.9万播放",
-              "heatNum": 2229411,
+              "heat": "223.1万播放",
+              "heatNum": 2230816,
               "stats": {
-                "view": 2229411,
-                "like": 173172,
-                "coin": 44101,
-                "fav": 56389,
-                "share": 6978,
-                "reply": 5734
+                "view": 2230816,
+                "like": 173312,
+                "coin": 44148,
+                "fav": 56424,
+                "share": 6987,
+                "reply": 5740
               }
             },
             {
               "rank": 17,
               "title": "绝境降临！狭小缆车空间怎样熬过危机四伏的一百天！！「缆车惊变100天」",
               "url": "https://b23.tv/BV1gibB6PEih",
-              "heat": "192.4万播放",
-              "heatNum": 1923953,
+              "heat": "192.5万播放",
+              "heatNum": 1924952,
               "stats": {
-                "view": 1923953,
-                "like": 147015,
-                "coin": 67215,
-                "fav": 76782,
+                "view": 1924952,
+                "like": 147060,
+                "coin": 67229,
+                "fav": 76817,
                 "share": 1702,
                 "reply": 4411
               }
@@ -6721,14 +6721,14 @@
               "rank": 18,
               "title": "我看看谁错字了！",
               "url": "https://b23.tv/BV14Z8u6JEu4",
-              "heat": "246.9万播放",
-              "heatNum": 2468830,
+              "heat": "247.1万播放",
+              "heatNum": 2471019,
               "stats": {
-                "view": 2468830,
-                "like": 168576,
-                "coin": 6488,
-                "fav": 20005,
-                "share": 2485,
+                "view": 2471019,
+                "like": 168730,
+                "coin": 6493,
+                "fav": 20019,
+                "share": 2487,
                 "reply": 2238
               }
             },
@@ -6736,29 +6736,29 @@
               "rank": 19,
               "title": "土地的枷锁，后发国家的现代化困局",
               "url": "https://b23.tv/BV1aPbv6bErh",
-              "heat": "77.3万播放",
-              "heatNum": 772873,
+              "heat": "77.4万播放",
+              "heatNum": 774198,
               "stats": {
-                "view": 772873,
-                "like": 152656,
-                "coin": 22312,
-                "fav": 41702,
-                "share": 2160,
-                "reply": 2340
+                "view": 774198,
+                "like": 152972,
+                "coin": 22389,
+                "fav": 41788,
+                "share": 2172,
+                "reply": 2346
               }
             },
             {
               "rank": 20,
               "title": "《鸣潮》共鸣者「清宵」PV | 修行",
               "url": "https://b23.tv/BV1GFbk6LEVm",
-              "heat": "252.5万播放",
-              "heatNum": 2525238,
+              "heat": "252.6万播放",
+              "heatNum": 2525633,
               "stats": {
-                "view": 2525238,
-                "like": 111134,
-                "coin": 50116,
-                "fav": 24160,
-                "share": 23990,
+                "view": 2525633,
+                "like": 111151,
+                "coin": 50131,
+                "fav": 24166,
+                "share": 23996,
                 "reply": 14918
               }
             },
@@ -6766,59 +6766,59 @@
               "rank": 21,
               "title": "《鸡来》一个半小时超长电影！！！",
               "url": "https://b23.tv/BV1NBbe6jEzz",
-              "heat": "244.7万播放",
-              "heatNum": 2447146,
+              "heat": "245.2万播放",
+              "heatNum": 2451567,
               "stats": {
-                "view": 2447146,
-                "like": 160655,
-                "coin": 40907,
-                "fav": 57070,
-                "share": 32991,
-                "reply": 6802
+                "view": 2451567,
+                "like": 160848,
+                "coin": 40972,
+                "fav": 57155,
+                "share": 33043,
+                "reply": 6808
               }
             },
             {
               "rank": 22,
               "title": "我把我所有的硬币立在了一支笔上(太简单了，等我弄到更多的硬币 )",
               "url": "https://b23.tv/BV1VEba6HEaD",
-              "heat": "237.1万播放",
-              "heatNum": 2370602,
+              "heat": "237.3万播放",
+              "heatNum": 2372847,
               "stats": {
-                "view": 2370602,
-                "like": 392471,
-                "coin": 64784,
-                "fav": 32543,
-                "share": 7833,
-                "reply": 7087
+                "view": 2372847,
+                "like": 392889,
+                "coin": 64875,
+                "fav": 32591,
+                "share": 7841,
+                "reply": 7093
               }
             },
             {
               "rank": 23,
               "title": "周处除三害现实版，我们干掉他了！",
               "url": "https://b23.tv/BV1VfbR6pEw9",
-              "heat": "275.4万播放",
-              "heatNum": 2754331,
+              "heat": "275.5万播放",
+              "heatNum": 2754727,
               "stats": {
-                "view": 2754331,
-                "like": 438370,
-                "coin": 164016,
-                "fav": 39277,
+                "view": 2754727,
+                "like": 438465,
+                "coin": 164070,
+                "fav": 39284,
                 "share": 9176,
-                "reply": 8497
+                "reply": 8499
               }
             },
             {
               "rank": 24,
               "title": "微酸的青苹果",
               "url": "https://b23.tv/BV1Dxbe6sEgk",
-              "heat": "269.4万播放",
-              "heatNum": 2693892,
+              "heat": "269.6万播放",
+              "heatNum": 2695700,
               "stats": {
-                "view": 2693892,
-                "like": 225654,
-                "coin": 13069,
-                "fav": 63243,
-                "share": 4248,
+                "view": 2695700,
+                "like": 225783,
+                "coin": 13073,
+                "fav": 63289,
+                "share": 4250,
                 "reply": 1487
               }
             },
@@ -6826,94 +6826,94 @@
               "rank": 25,
               "title": "“不是只有伟大艺术家才能做出好作品”",
               "url": "https://b23.tv/BV1tUbY6SE6K",
-              "heat": "283.1万播放",
-              "heatNum": 2831087,
+              "heat": "283.3万播放",
+              "heatNum": 2833306,
               "stats": {
-                "view": 2831087,
-                "like": 278292,
-                "coin": 8031,
-                "fav": 41031,
-                "share": 2842,
-                "reply": 2704
+                "view": 2833306,
+                "like": 278482,
+                "coin": 8044,
+                "fav": 41061,
+                "share": 2845,
+                "reply": 2708
               }
             },
             {
               "rank": 26,
               "title": "当朋友总用奇怪的皮肤和你一起玩...",
               "url": "https://b23.tv/BV1Hn8j6ZEqN",
-              "heat": "248.4万播放",
-              "heatNum": 2484245,
+              "heat": "249.1万播放",
+              "heatNum": 2491423,
               "stats": {
-                "view": 2484245,
-                "like": 256014,
-                "coin": 3411,
-                "fav": 44973,
-                "share": 16426,
-                "reply": 6303
+                "view": 2491423,
+                "like": 256892,
+                "coin": 3431,
+                "fav": 45134,
+                "share": 16482,
+                "reply": 6316
               }
             },
             {
               "rank": 27,
               "title": "【原创动画】人生充满抉择，但我能看到选项！",
               "url": "https://b23.tv/BV1vx8g6cE3V",
-              "heat": "66.3万播放",
-              "heatNum": 663396,
+              "heat": "66.4万播放",
+              "heatNum": 663583,
               "stats": {
-                "view": 663396,
-                "like": 141568,
+                "view": 663583,
+                "like": 141580,
                 "coin": 9235,
-                "fav": 27655,
-                "share": 2629,
-                "reply": 2609
+                "fav": 27659,
+                "share": 2631,
+                "reply": 2611
               }
             },
             {
               "rank": 28,
               "title": "原来骆驼是这么尿的啊",
               "url": "https://b23.tv/BV1Aqba6uEw6",
-              "heat": "456.1万播放",
-              "heatNum": 4561468,
+              "heat": "456.3万播放",
+              "heatNum": 4563014,
               "stats": {
-                "view": 4561468,
-                "like": 245565,
+                "view": 4563014,
+                "like": 245653,
                 "coin": 3087,
-                "fav": 27399,
-                "share": 17851,
-                "reply": 4682
+                "fav": 27407,
+                "share": 17854,
+                "reply": 4683
               }
             },
             {
               "rank": 29,
               "title": "外卖小哥用电动车撞翻持刀男子，目击者赞撞翻持刀男子小哥有勇有谋",
               "url": "https://b23.tv/BV1K78n67EkC",
-              "heat": "301.6万播放",
-              "heatNum": 3016447,
+              "heat": "302.6万播放",
+              "heatNum": 3026079,
               "stats": {
-                "view": 3016447,
-                "like": 264256,
-                "coin": 2055,
-                "fav": 12184,
-                "share": 9365,
-                "reply": 9310
+                "view": 3026079,
+                "like": 264880,
+                "coin": 2061,
+                "fav": 12220,
+                "share": 9377,
+                "reply": 9324
               }
             },
             {
               "rank": 30,
               "title": "菜谱：洋葱炒蛋，家庭红烧鱼，蒜炒西兰花，辣椒炒猪腰，绿豆汤，从买菜开始，你在家随时可以复刻",
               "url": "https://b23.tv/BV1BS876oEwP",
-              "heat": "276.0万播放",
-              "heatNum": 2760080,
+              "heat": "277.5万播放",
+              "heatNum": 2775169,
               "stats": {
-                "view": 2760080,
-                "like": 126672,
-                "coin": 5409,
-                "fav": 17921,
-                "share": 2267,
-                "reply": 1389
+                "view": 2775169,
+                "like": 127581,
+                "coin": 5457,
+                "fav": 18097,
+                "share": 2293,
+                "reply": 1404
               }
             }
           ],
-          "updateTime": "2026-08-20T14:54:57.019Z"
+          "updateTime": "2026-08-20T14:59:26.003Z"
         }
       ]
     },
@@ -6928,55 +6928,55 @@
           "items": [
             {
               "rank": 44,
-              "title": "朱志鑫竟然也有容貌焦虑",
-              "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E6%9C%B1%E5%BF%97%E9%91%AB%E7%AB%9F%E7%84%B6%E4%B9%9F%E6%9C%89%E5%AE%B9%E8%B2%8C%E7%84%A6%E8%99%91&rankType=1",
-              "heat": "916.8万",
-              "heatNum": 9168000
+              "title": "河南濮阳市范县发生3.7级地震",
+              "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E6%B2%B3%E5%8D%97%E6%BF%AE%E9%98%B3%E5%B8%82%E8%8C%83%E5%8E%BF%E5%8F%91%E7%94%9F3.7%E7%BA%A7%E5%9C%B0%E9%9C%87&rankType=1",
+              "heat": "930.4万",
+              "heatNum": 9304000
             },
             {
               "rank": 45,
-              "title": "广东男篮新任主教练曝光",
-              "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E5%B9%BF%E4%B8%9C%E7%94%B7%E7%AF%AE%E6%96%B0%E4%BB%BB%E4%B8%BB%E6%95%99%E7%BB%83%E6%9B%9D%E5%85%89&rankType=1",
-              "heat": "911.3万",
-              "heatNum": 9113000
+              "title": "黄海部分海域军事活动禁止驶入",
+              "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E9%BB%84%E6%B5%B7%E9%83%A8%E5%88%86%E6%B5%B7%E5%9F%9F%E5%86%9B%E4%BA%8B%E6%B4%BB%E5%8A%A8%E7%A6%81%E6%AD%A2%E9%A9%B6%E5%85%A5&rankType=1",
+              "heat": "927.6万",
+              "heatNum": 9276000
             },
             {
               "rank": 46,
-              "title": "英语四六级成绩8月24日起可查",
-              "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E8%8B%B1%E8%AF%AD%E5%9B%9B%E5%85%AD%E7%BA%A7%E6%88%90%E7%BB%A98%E6%9C%8824%E6%97%A5%E8%B5%B7%E5%8F%AF%E6%9F%A5&rankType=1",
-              "heat": "909.5万",
-              "heatNum": 9095000
+              "title": "沙特顾客开口就是东北话",
+              "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E6%B2%99%E7%89%B9%E9%A1%BE%E5%AE%A2%E5%BC%80%E5%8F%A3%E5%B0%B1%E6%98%AF%E4%B8%9C%E5%8C%97%E8%AF%9D&rankType=1",
+              "heat": "924.9万",
+              "heatNum": 9249000
             },
             {
               "rank": 47,
               "title": "俄军大规模导弹夜袭基辅",
               "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E4%BF%84%E5%86%9B%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%AF%BC%E5%BC%B9%E5%A4%9C%E8%A2%AD%E5%9F%BA%E8%BE%85&rankType=1",
-              "heat": "908.6万",
-              "heatNum": 9086000
+              "heat": "924.4万",
+              "heatNum": 9244000
             },
             {
               "rank": 48,
               "title": "泡泡玛特上半年净利润50.4亿元",
               "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%87%80%E5%88%A9%E6%B6%A650.4%E4%BA%BF%E5%85%83&rankType=1",
-              "heat": "908.0万",
-              "heatNum": 9080000
+              "heat": "922.8万",
+              "heatNum": 9228000
             },
             {
               "rank": 49,
-              "title": "阿离跳嘉桐摇",
-              "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E9%98%BF%E7%A6%BB%E8%B7%B3%E5%98%89%E6%A1%90%E6%91%87&rankType=1",
-              "heat": "907.5万",
-              "heatNum": 9075000
+              "title": "英语四六级成绩8月24日起可查",
+              "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E8%8B%B1%E8%AF%AD%E5%9B%9B%E5%85%AD%E7%BA%A7%E6%88%90%E7%BB%A98%E6%9C%8824%E6%97%A5%E8%B5%B7%E5%8F%AF%E6%9F%A5&rankType=1",
+              "heat": "921.9万",
+              "heatNum": 9219000
             },
             {
               "rank": 50,
-              "title": "李在明回应半岛防卫争议",
-              "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%9B%9E%E5%BA%94%E5%8D%8A%E5%B2%9B%E9%98%B2%E5%8D%AB%E4%BA%89%E8%AE%AE&rankType=1",
-              "heat": "906.4万",
-              "heatNum": 9064000
+              "title": "阿离跳嘉桐摇",
+              "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E9%98%BF%E7%A6%BB%E8%B7%B3%E5%98%89%E6%A1%90%E6%91%87&rankType=1",
+              "heat": "921.8万",
+              "heatNum": 9218000
             }
           ],
-          "updateTime": "2026-08-20T14:54:59.257Z"
+          "updateTime": "2026-08-20T14:59:27.451Z"
         }
       ]
     },
@@ -7193,7 +7193,7 @@
               "heatNum": 1045
             }
           ],
-          "updateTime": "2026-08-20T14:55:02.598Z"
+          "updateTime": "2026-08-20T14:59:29.538Z"
         }
       ]
     },
@@ -7263,7 +7263,7 @@
               "heatNum": null
             }
           ],
-          "updateTime": "2026-08-20T14:55:05.142Z"
+          "updateTime": "2026-08-20T14:59:31.472Z"
         }
       ]
     },
@@ -7361,7 +7361,7 @@
               "heatNum": 99
             }
           ],
-          "updateTime": "2026-08-20T14:55:07.571Z"
+          "updateTime": "2026-08-20T14:59:33.435Z"
         }
       ]
     },
@@ -7515,7 +7515,7 @@
               "heatNum": null
             }
           ],
-          "updateTime": "2026-08-20T14:55:10.074Z"
+          "updateTime": "2026-08-20T14:59:35.570Z"
         }
       ]
     },
@@ -7669,7 +7669,7 @@
               "heatNum": 578
             }
           ],
-          "updateTime": "2026-08-20T14:55:12.805Z"
+          "updateTime": "2026-08-20T14:59:37.708Z"
         }
       ]
     },
@@ -7836,7 +7836,7 @@
               "lang": "Rust"
             }
           ],
-          "updateTime": "2026-08-20T14:55:19.684Z"
+          "updateTime": "2026-08-20T14:59:40.376Z"
         },
         {
           "id": "weekly",
@@ -8005,7 +8005,7 @@
               "lang": "TypeScript"
             }
           ],
-          "updateTime": "2026-08-20T14:55:22.053Z"
+          "updateTime": "2026-08-20T14:59:41.523Z"
         },
         {
           "id": "monthly",
@@ -8210,7 +8210,7 @@
               "lang": "TypeScript"
             }
           ],
-          "updateTime": "2026-08-20T14:55:25.489Z"
+          "updateTime": "2026-08-20T14:59:42.737Z"
         }
       ]
     },
@@ -8364,7 +8364,7 @@
               "heatNum": null
             }
           ],
-          "updateTime": "2026-08-20T14:55:30.191Z"
+          "updateTime": "2026-08-20T14:59:44.407Z"
         }
       ]
     },
@@ -8588,7 +8588,7 @@
               "heatNum": 639
             }
           ],
-          "updateTime": "2026-08-20T14:55:32.912Z"
+          "updateTime": "2026-08-20T14:59:46.335Z"
         }
       ]
     },
@@ -8672,7 +8672,7 @@
               "heatNum": 59000
             }
           ],
-          "updateTime": "2026-08-20T14:55:40.769Z"
+          "updateTime": "2026-08-20T14:59:49.951Z"
         },
         {
           "id": "news",
@@ -8819,7 +8819,7 @@
               "heatNum": null
             }
           ],
-          "updateTime": "2026-08-20T14:55:42.006Z"
+          "updateTime": "2026-08-20T14:59:50.052Z"
         },
         {
           "id": "weekly",
@@ -8843,8 +8843,8 @@
               "rank": 3,
               "title": "下周重磅日程：中国7月经济数据，阿里、小米、天孚通信、兆易创新、长飞光纤财报，宇树科技上市在即",
               "url": "https://wallstreetcn.com/articles/3779445",
-              "heat": "16.8万",
-              "heatNum": 168000
+              "heat": "16.9万",
+              "heatNum": 169000
             },
             {
               "rank": 4,
@@ -8896,7 +8896,7 @@
               "heatNum": 132000
             }
           ],
-          "updateTime": "2026-08-20T14:55:42.864Z"
+          "updateTime": "2026-08-20T14:59:50.155Z"
         }
       ]
     },
@@ -8994,7 +8994,7 @@
               "heatNum": null
             }
           ],
-          "updateTime": "2026-08-20T14:55:45.483Z"
+          "updateTime": "2026-08-20T14:59:52.267Z"
         }
       ]
     },
@@ -9037,48 +9037,48 @@
             },
             {
               "rank": 5,
+              "title": "中国广电联合会回应张龙头衔",
+              "url": "https://finance.sina.com.cn/jjxw/2026-08-20/doc-ininysmp1826783.shtml",
+              "heat": null,
+              "heatNum": null
+            },
+            {
+              "rank": 6,
               "title": "中国雄安集团与海尔集团签署战略合作协议",
               "url": "https://finance.sina.com.cn/roll/2026-08-20/doc-ininysmm8641795.shtml",
               "heat": "上海证券报",
               "heatNum": null
             },
             {
-              "rank": 6,
+              "rank": 7,
               "title": "平均两天一场大赛，上海冲刺赛事经济翻番",
               "url": "https://finance.sina.com.cn/jjxw/2026-08-20/doc-ininysmf6657689.shtml",
               "heat": "界面",
               "heatNum": null
             },
             {
-              "rank": 7,
+              "rank": 8,
               "title": "澳门“三五”规划｜吴惠娴：推进经济适度多元发展是关键",
               "url": "https://finance.sina.com.cn/jjxw/2026-08-20/doc-ininysma7926016.shtml",
               "heat": "海外网",
               "heatNum": null
             },
             {
-              "rank": 8,
+              "rank": 9,
               "title": "西藏类乌齐点球11比10胜重庆丰都，晋级村超全国四强",
               "url": "https://finance.sina.com.cn/jjxw/2026-08-20/doc-ininysmm8634197.shtml",
               "heat": "专业版微博",
               "heatNum": null
             },
             {
-              "rank": 9,
+              "rank": 10,
               "title": "汕尾市城区红草—马宫—香洲镇村片区组团重塑共富新空间",
               "url": "https://finance.sina.com.cn/roll/2026-08-20/doc-ininysmk1862158.shtml",
               "heat": "21世纪经济报道",
               "heatNum": 21
-            },
-            {
-              "rank": 10,
-              "title": "社区也有自己的文化艺术季，新大众文艺点亮基层文化新生态",
-              "url": "https://finance.sina.com.cn/jjxw/2026-08-20/doc-ininysmf6649678.shtml",
-              "heat": "澎湃新闻",
-              "heatNum": null
             }
           ],
-          "updateTime": "2026-08-20T14:55:48.252Z"
+          "updateTime": "2026-08-20T14:59:53.760Z"
         }
       ]
     },
@@ -9267,7 +9267,7 @@
               "heatNum": null
             }
           ],
-          "updateTime": "2026-08-20T14:55:50.714Z"
+          "updateTime": "2026-08-20T14:59:55.151Z"
         },
         {
           "id": "week",
@@ -9344,7 +9344,7 @@
               "heatNum": null
             }
           ],
-          "updateTime": "2026-08-20T14:55:52.801Z"
+          "updateTime": "2026-08-20T14:59:55.248Z"
         }
       ]
     },
@@ -9498,7 +9498,7 @@
               "heatNum": null
             }
           ],
-          "updateTime": "2026-08-20T14:55:56.321Z"
+          "updateTime": "2026-08-20T14:59:56.936Z"
         }
       ]
     },
@@ -9582,7 +9582,7 @@
               "heatNum": null
             }
           ],
-          "updateTime": "2026-08-20T14:55:59.215Z"
+          "updateTime": "2026-08-20T14:59:58.366Z"
         }
       ]
     },
@@ -9666,7 +9666,7 @@
               "heatNum": null
             }
           ],
-          "updateTime": "2026-08-20T14:56:01.693Z"
+          "updateTime": "2026-08-20T15:00:00.054Z"
         }
       ]
     },
@@ -9820,7 +9820,7 @@
               "heatNum": null
             }
           ],
-          "updateTime": "2026-08-20T14:56:05.058Z"
+          "updateTime": "2026-08-20T15:00:01.570Z"
         }
       ]
     },
@@ -9974,7 +9974,7 @@
               "heatNum": 111
             }
           ],
-          "updateTime": "2026-08-20T14:56:08.095Z"
+          "updateTime": "2026-08-20T15:00:04.697Z"
         }
       ]
     },
@@ -10163,7 +10163,7 @@
               "heatNum": null
             }
           ],
-          "updateTime": "2026-08-20T14:56:10.575Z"
+          "updateTime": "2026-08-20T15:00:06.894Z"
         }
       ]
     },
@@ -10192,22 +10192,22 @@
             },
             {
               "rank": 3,
-              "title": "SpaceX stock slips as 319 million new shares come to market",
-              "url": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-slips-as-319-million-new-shares-come-to-market-143100875.html",
+              "title": "Bitcoin Price Spikes Above $72,000 On Treasury-Fueled Short Squeeze",
+              "url": "https://www.investors.com/news/bitcoin-price-72000-two-month-high-treasury-bond-crypto-shorts-cftc-trump-clarity-act-white-house/?src=A00220&yptr=yahoo",
               "heat": null,
               "heatNum": null
             },
             {
               "rank": 4,
-              "title": "Stock market today: Dow, S&P 500, Nasdaq slip as bond yields rebound after Treasury intervention, oil rises",
-              "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-20-dow-sp-500-nasdaq-081139322.html",
+              "title": "Keysight Technologies (KEYS) Gains From Equipment Growth Fueled By AI Use Cases",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/keysight-technologies-keys-gains-equipment-143343630.html",
               "heat": null,
               "heatNum": null
             },
             {
               "rank": 5,
-              "title": "Intercontinental Exchange (ICE) Caught in AI Loser Narrative Despite Strong Results",
-              "url": "https://finance.yahoo.com/markets/stocks/articles/intercontinental-exchange-ice-caught-ai-142515947.html",
+              "title": "Walmart’s Tariff Refund Couldn’t Save a Soft Quarter",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-tariff-refund-couldn-t-143233771.html",
               "heat": null,
               "heatNum": null
             },
@@ -10220,29 +10220,29 @@
             },
             {
               "rank": 7,
-              "title": "Students will soon be able to Venmo their college tuition — but it may not always be the smartest choice",
-              "url": "https://finance.yahoo.com/markets/currencies/articles/students-soon-able-venmo-college-142500727.html",
+              "title": "SpaceX stock slips as 319 million new shares come to market",
+              "url": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-slips-as-319-million-new-shares-come-to-market-143100875.html",
               "heat": null,
               "heatNum": null
             },
             {
               "rank": 8,
-              "title": "Arch Capital’s (ACGL) Valuation Supports Strategic Capital Allocation",
-              "url": "https://finance.yahoo.com/markets/stocks/articles/arch-capital-acgl-valuation-supports-142335620.html",
+              "title": "Search and Cloud Strength Drive Alphabet’s (GOOG) Rally",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/search-cloud-strength-drive-alphabet-143014236.html",
               "heat": null,
               "heatNum": null
             },
             {
               "rank": 9,
-              "title": "Should you refinance with the same lender?",
-              "url": "https://finance.yahoo.com/news/refinance-same-lender-171238158.html",
+              "title": "Copart’s (CPRT) Financials Show Resilience; Leadership Changes Highlight Stability",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/copart-cprt-financials-show-resilience-142853596.html",
               "heat": null,
               "heatNum": null
             },
             {
               "rank": 10,
-              "title": "Dollar hits 3-month low vs euro, pares losses after Treasury move",
-              "url": "https://finance.yahoo.com/news/dollar-hugs-three-month-lows-005324076.html",
+              "title": "Stock market today: Dow, S&P 500, Nasdaq slip as bond yields rebound after Treasury intervention, oil rises",
+              "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-20-dow-sp-500-nasdaq-081139322.html",
               "heat": null,
               "heatNum": null
             },
@@ -10255,139 +10255,139 @@
             },
             {
               "rank": 12,
+              "title": "Intercontinental Exchange (ICE) Caught in AI Loser Narrative Despite Strong Results",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/intercontinental-exchange-ice-caught-ai-142515947.html",
+              "heat": null,
+              "heatNum": null
+            },
+            {
+              "rank": 13,
+              "title": "Students will soon be able to Venmo their college tuition — but it may not always be the smartest choice",
+              "url": "https://finance.yahoo.com/markets/currencies/articles/students-soon-able-venmo-college-142500727.html",
+              "heat": null,
+              "heatNum": null
+            },
+            {
+              "rank": 14,
+              "title": "Arch Capital’s (ACGL) Valuation Supports Strategic Capital Allocation",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/arch-capital-acgl-valuation-supports-142335620.html",
+              "heat": null,
+              "heatNum": null
+            },
+            {
+              "rank": 15,
+              "title": "Should you refinance with the same lender?",
+              "url": "https://finance.yahoo.com/news/refinance-same-lender-171238158.html",
+              "heat": null,
+              "heatNum": null
+            },
+            {
+              "rank": 16,
+              "title": "Credo Is Up 71% This Year and Wall Street Just Raised Its Targets Again",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/credo-71-wall-street-just-143057491.html",
+              "heat": null,
+              "heatNum": null
+            },
+            {
+              "rank": 17,
+              "title": "Dollar hits 3-month low vs euro, pares losses after Treasury move",
+              "url": "https://finance.yahoo.com/news/dollar-hugs-three-month-lows-005324076.html",
+              "heat": null,
+              "heatNum": null
+            },
+            {
+              "rank": 18,
               "title": "End-Market Strength & Data Center Demand Drive Texas Instruments Incorporated’s (TXN) Growth",
               "url": "https://finance.yahoo.com/markets/stocks/articles/end-market-strength-data-center-141728493.html",
               "heat": null,
               "heatNum": null
             },
             {
-              "rank": 13,
+              "rank": 19,
+              "title": "When the Supply Chain Broke, Freight Tech Answered: The 2021 to 2023 Acceleration Years",
+              "url": "https://finance.yahoo.com/technology/articles/supply-chain-broke-freight-tech-141700969.html",
+              "heat": null,
+              "heatNum": null
+            },
+            {
+              "rank": 20,
               "title": "After Moderna stock surge of 177% on cancer drug breakthrough, here's what Wall Street thinks happens next",
               "url": "https://finance.yahoo.com/healthcare/article/after-moderna-stock-surge-of-177-on-cancer-drug-breakthrough-heres-what-wall-street-thinks-happens-next-091040601.html",
               "heat": null,
               "heatNum": null
             },
             {
-              "rank": 14,
+              "rank": 21,
+              "title": "Wolfspeed Sinks 12% on Wider-Than-Expected Loss, ON Semiconductor Slips as Chip Sector Holds Steady",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/wolfspeed-sinks-12-wider-expected-143017101.html",
+              "heat": null,
+              "heatNum": null
+            },
+            {
+              "rank": 22,
               "title": "Stock Market Today: Dow Falls On Trump's 'Economic D-Day' Threat; Energy Giant Breaks Out (Live Coverage)",
               "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-threat-walmart-stock-wmt/?src=A00220&yptr=yahoo",
               "heat": null,
               "heatNum": null
             },
             {
-              "rank": 15,
+              "rank": 23,
               "title": "Vishal Garg, the CEO who fired 900 on Zoom, offers to work for $1 a year to reclaim Better after $1.5 billion in losses",
               "url": "https://finance.yahoo.com/markets/stocks/articles/vishal-garg-ceo-fired-900-140500997.html",
               "heat": null,
               "heatNum": null
             },
             {
-              "rank": 16,
-              "title": "Moderna, Walmart, Coinbase, Deere, SpaceX, Tesla, Alibaba, and More Stocks That Explain Today’s Market",
-              "url": "https://www.barrons.com/articles/stock-movers-dee21e98?siteid=yhoof2&yptr=yahoo",
-              "heat": null,
-              "heatNum": null
-            },
-            {
-              "rank": 17,
+              "rank": 24,
               "title": "Walmart stock drops as sales growth slows, customers make 'trade-offs' amid high fuel costs",
               "url": "https://finance.yahoo.com/markets/stocks/article/walmart-stock-drops-as-sales-growth-slows-customers-make-trade-offs-amid-high-fuel-costs-182327744.html",
               "heat": null,
               "heatNum": null
             },
             {
-              "rank": 18,
+              "rank": 25,
               "title": "Stocks dip as bond yields and oil rise, Walmart earnings drag on retail: AlphaCheck",
               "url": "https://finance.yahoo.com/markets/article/stocks-dip-as-bond-yields-and-oil-rise-walmart-earnings-drag-on-retail-alphacheck-140142173.html",
               "heat": null,
               "heatNum": null
             },
             {
-              "rank": 19,
+              "rank": 26,
+              "title": "Moderna, Walmart, Coinbase, Deere, SpaceX, Tesla, Alibaba, and More Stocks That Explain Today’s Market",
+              "url": "https://www.barrons.com/articles/stock-movers-dee21e98?siteid=yhoof2&yptr=yahoo",
+              "heat": null,
+              "heatNum": null
+            },
+            {
+              "rank": 27,
               "title": "Wall Street has an answer to 60/40 — this ETF crams 90/60 into the same dollar: One Big Investment Idea",
               "url": "https://finance.yahoo.com/markets/article/wall-street-has-an-answer-to-6040--this-etf-crams-9060-into-the-same-dollar-one-big-investment-idea-135503448.html",
               "heat": null,
               "heatNum": null
             },
             {
-              "rank": 20,
+              "rank": 28,
               "title": "Short Sellers Lose Nearly $3 Billion As Bitcoin’s Price Spikes",
               "url": "https://finance.yahoo.com/markets/crypto/articles/short-sellers-lose-nearly-3-134900822.html",
               "heat": null,
               "heatNum": null
             },
             {
-              "rank": 21,
-              "title": "Insider Selling Signal: Jane Grebenc Sheds 15,000 Shares of First Commonwealth Financial",
-              "url": "https://finance.yahoo.com/markets/stocks/articles/insider-selling-signal-jane-grebenc-142703709.html",
-              "heat": null,
-              "heatNum": null
-            },
-            {
-              "rank": 22,
+              "rank": 29,
               "title": "Mortgage and refinance interest rates today, Wednesday, August 19, 2026:  Surprisingly calm amid bond market volatility",
               "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-wednesday-august-19-2026-surprisingly-calm-amid-bond-market-volatility-100000804.html",
               "heat": null,
               "heatNum": null
             },
             {
-              "rank": 23,
+              "rank": 30,
               "title": "Best CD rates today, Wednesday, August 19, 2026: Earn up to 4.35% APY",
               "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-august-19-2026-earn-up-to-435-apy-100000814.html",
               "heat": null,
               "heatNum": null
-            },
-            {
-              "rank": 24,
-              "title": "Indexed universal life insurance (IUL): Risks, costs, and how it works",
-              "url": "https://finance.yahoo.com/personal-finance/insurance/article/indexed-universal-life-155053064.html",
-              "heat": null,
-              "heatNum": null
-            },
-            {
-              "rank": 25,
-              "title": "Gold prices today, Wednesday, August 19, 2026: Gold strengthens ahead of FOMC minutes release",
-              "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-wednesday-august-19-2026-gold-strengthens-ahead-of-fomc-minutes-release-161123813.html",
-              "heat": null,
-              "heatNum": null
-            },
-            {
-              "rank": 26,
-              "title": "Majority of UK and Irish payroll professionals now using AI, survey finds",
-              "url": "https://finance.yahoo.com/technology/ai/articles/majority-uk-irish-payroll-professionals-142644627.html",
-              "heat": null,
-              "heatNum": null
-            },
-            {
-              "rank": 27,
-              "title": "Silver prices today, Wednesday, August 19, 2026:  Silver rises in early trading on lower rate-hike expectations",
-              "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-wednesday-august-19-2026-silver-rises-in-early-trading-on-lower-rate-hike-expectations-161336926.html",
-              "heat": null,
-              "heatNum": null
-            },
-            {
-              "rank": 28,
-              "title": "Bitcoin and ethereum prices today, Wednesday, August 19, 2026:  Crypto prices rise after SEC announces proposed regulation",
-              "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-19-2026-crypto-prices-rise-after-sec-announces-proposed-regulation-161733939.html",
-              "heat": null,
-              "heatNum": null
-            },
-            {
-              "rank": 29,
-              "title": "Best CD rates today, Thursday, August 20, 2026: Lock in up to 4.30% APY with a 16-month CD",
-              "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-august-20-2026-lock-in-up-to-430-apy-with-a-16-month-cd-100000072.html",
-              "heat": null,
-              "heatNum": null
-            },
-            {
-              "rank": 30,
-              "title": "Mortgage and refinance interest rates today, Thursday, August 20, 2026: Small changes, but a big move up on the 5/1 ARM",
-              "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-thursday-august-20-2026-small-changes-but-a-big-move-up-on-the-51-arm-100000272.html",
-              "heat": null,
-              "heatNum": null
             }
           ],
-          "updateTime": "2026-08-20T14:56:15.171Z"
+          "updateTime": "2026-08-20T15:00:08.303Z"
         }
       ]
     },
@@ -10611,7 +10611,7 @@
               "heatNum": null
             }
           ],
-          "updateTime": "2026-08-20T14:56:19.638Z"
+          "updateTime": "2026-08-20T15:00:09.861Z"
         }
       ]
     },
@@ -10695,7 +10695,7 @@
               "heatNum": null
             }
           ],
-          "updateTime": "2026-08-20T14:56:28.299Z"
+          "updateTime": "2026-08-20T15:00:11.469Z"
         }
       ]
     },
@@ -10710,76 +10710,76 @@
           "items": [
             {
               "rank": 1,
-              "title": "Nordson stock price target maintained at $345 by DA Davidson",
-              "url": "https://www.investing.com/news/analyst-ratings/nordson-stock-price-target-maintained-at-345-by-da-davidson-93CH-4870111",
+              "title": "SpaceX, Moderna among market cap stock movers on Thursday",
+              "url": "https://www.investing.com/news/stock-market-news/spacex-moderna-among-market-cap-stock-movers-on-thursday-93CH-4870096",
               "heat": null,
               "heatNum": null
             },
             {
               "rank": 2,
-              "title": "DouYu earnings missed by ¥2.59, revenue fell short of estimates",
-              "url": "https://www.investing.com/news/earnings/douyu-earnings-missed-by-259-revenue-fell-short-of-estimates-4870109",
+              "title": "Alibaba Q2 2026 slides: AI surge drives revenue up 9%, profit down 75%",
+              "url": "https://www.investing.com/news/company-news/alibaba-q2-2026-slides-ai-surge-drives-revenue-up-9-profit-down-75-93CH-4870097",
               "heat": null,
               "heatNum": null
             },
             {
               "rank": 3,
-              "title": "Harworth enters exclusivity deal for second data centre site",
-              "url": "https://www.investing.com/news/company-news/harworth-enters-exclusivity-deal-for-second-data-centre-site-93CH-4870108",
+              "title": "Twin Disc Q4 FY2026 slides: record revenue, margin headwinds",
+              "url": "https://www.investing.com/news/company-news/twin-disc-q4-fy2026-slides-record-revenue-margin-headwinds-93CH-4870094",
               "heat": null,
               "heatNum": null
             },
             {
               "rank": 4,
-              "title": "SpaceX shares fall as second lockup period ends",
-              "url": "https://www.investing.com/news/stock-market-news/spacex-shares-fall-as-second-lockup-period-ends-93CH-4870107",
+              "title": "Why is Riot Platforms stock rallying today?",
+              "url": "https://www.investing.com/news/stock-market-news/why-is-riot-platforms-stock-rallying-today-93CH-4870092",
               "heat": null,
               "heatNum": null
             },
             {
               "rank": 5,
-              "title": "Conduent stock rises on Google Gemini AI integration",
-              "url": "https://www.investing.com/news/stock-market-news/conduent-stock-rises-on-google-gemini-ai-integration-93CH-4870106",
+              "title": "Tonies H1 2026 slides: 41% revenue growth, margin pressure weighs",
+              "url": "https://www.investing.com/news/company-news/tonies-h1-2026-slides-41-revenue-growth-margin-pressure-weighs-93CH-4870091",
               "heat": null,
               "heatNum": null
             },
             {
               "rank": 6,
-              "title": "Austevoll Q2 2026 slides: Peru disruption weighs, pricing gains emerge",
-              "url": "https://www.investing.com/news/company-news/austevoll-q2-2026-slides-peru-disruption-weighs-pricing-gains-emerge-93CH-4870104",
+              "title": "Quanome Technologies establishes quantum advisory council",
+              "url": "https://www.investing.com/news/company-news/quanome-technologies-establishes-quantum-advisory-council-93CH-4870089",
               "heat": null,
               "heatNum": null
             },
             {
               "rank": 7,
-              "title": "Earnings call transcript: John B. Sanfilippo & Son posts mixed Q4 2026 results",
-              "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-john-b-sanfilippo--son-posts-mixed-q4-2026-results-93CH-4870103",
+              "title": "Waymo builds custom chip for robotaxis to boost performance",
+              "url": "https://www.investing.com/news/stock-market-news/waymo-builds-custom-chip-for-robotaxis-to-boost-performance-4870088",
               "heat": null,
               "heatNum": null
             },
             {
               "rank": 8,
-              "title": "BOS earnings beat by $0.05, revenue topped estimates",
-              "url": "https://www.investing.com/news/earnings/bos-earnings-beat-by-005-revenue-topped-estimates-4870102",
+              "title": "Natural gas storage rises slightly above forecast, impacts market dynamics",
+              "url": "https://www.investing.com/news/economic-indicators/natural-gas-storage-rises-slightly-above-forecast-impacts-market-dynamics-93CH-4870087",
               "heat": null,
               "heatNum": null
             },
             {
               "rank": 9,
-              "title": "Big Sky Industrial at Micro-Cap Virtual Conference: pivot to helium",
-              "url": "https://www.investing.com/news/transcripts/big-sky-industrial-at-microcap-virtual-conference-pivot-to-helium-93CH-4870101",
+              "title": "Transgaz H1 2026 slides: profit falls 51% as new projects lift costs",
+              "url": "https://www.investing.com/news/company-news/transgaz-h1-2026-slides-profit-falls-51-as-new-projects-lift-costs-93CH-4870086",
               "heat": null,
               "heatNum": null
             },
             {
               "rank": 10,
-              "title": "Virtuix at Micro-Cap Virtual Conference: meta launch lifts growth",
-              "url": "https://www.investing.com/news/transcripts/virtuix-at-microcap-virtual-conference-meta-launch-lifts-growth-93CH-4870100",
+              "title": "National Presto Industries stock hits all-time high at 149.88 USD",
+              "url": "https://www.investing.com/news/company-news/national-presto-industries-stock-hits-alltime-high-at-14988-usd-93CH-4870085",
               "heat": null,
               "heatNum": null
             }
           ],
-          "updateTime": "2026-08-20T14:56:35.903Z"
+          "updateTime": "2026-08-20T15:00:13.326Z"
         }
       ]
     },
@@ -10933,7 +10933,7 @@
               "heatNum": null
             }
           ],
-          "updateTime": "2026-08-20T14:56:41.390Z"
+          "updateTime": "2026-08-20T15:00:14.996Z"
         }
       ]
     },
@@ -10950,88 +10950,88 @@
               "rank": 1,
               "title": "Malicious Rust Crate Arrayref Runs a Build-Time Payload",
               "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-              "heat": "143分 · 88评论",
-              "heatNum": 143,
+              "heat": "146分 · 94评论",
+              "heatNum": 146,
               "author": "abhisek"
             },
             {
               "rank": 2,
               "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
               "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-              "heat": "376分 · 124评论",
-              "heatNum": 376,
+              "heat": "384分 · 124评论",
+              "heatNum": 384,
               "author": "emctech"
             },
             {
               "rank": 3,
               "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
               "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-              "heat": "189分 · 45评论",
-              "heatNum": 189,
+              "heat": "194分 · 45评论",
+              "heatNum": 194,
               "author": "simedw"
             },
             {
               "rank": 4,
               "title": "Harvest hikes bills by 1500% after purchased by Bending Spoons",
               "url": "https://www.bbc.com/news/articles/clyq011414eo",
-              "heat": "37分 · 11评论",
-              "heatNum": 37,
+              "heat": "43分 · 24评论",
+              "heatNum": 43,
               "author": "jonathanlydall"
             },
             {
               "rank": 5,
-              "title": "DiffusionGemma Technical Report",
-              "url": "https://arxiv.org/abs/2608.00146",
-              "heat": "39分 · 6评论",
-              "heatNum": 39,
-              "author": "gmays"
-            },
-            {
-              "rank": 6,
-              "title": "Hacking with Claude on a $27 Smart Watch",
-              "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
-              "heat": "20分 · 9评论",
-              "heatNum": 20,
-              "author": "speckx"
-            },
-            {
-              "rank": 7,
               "title": "Stwipe Acquires OpenWouter",
               "url": "https://stwipe.com/",
-              "heat": "87分 · 12评论",
-              "heatNum": 87,
+              "heat": "94分 · 13评论",
+              "heatNum": 94,
               "author": "eatonphil"
             },
             {
+              "rank": 6,
+              "title": "DiffusionGemma Technical Report",
+              "url": "https://arxiv.org/abs/2608.00146",
+              "heat": "41分 · 6评论",
+              "heatNum": 41,
+              "author": "gmays"
+            },
+            {
+              "rank": 7,
+              "title": "Hacking with Claude on a $27 Smart Watch",
+              "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+              "heat": "21分 · 9评论",
+              "heatNum": 21,
+              "author": "speckx"
+            },
+            {
               "rank": 8,
-              "title": "Windows brings out the Rorschach test in everyone (2003)",
-              "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
-              "heat": "291分 · 105评论",
-              "heatNum": 291,
-              "author": "luu"
+              "title": "Why the Ocean Cleanup Hasn't Solved the Plastic Pollution Crisis",
+              "url": "https://therevelator.org/why-ocean-cleanup-has-not-solved-plastic-pollution/",
+              "heat": "21分 · 11评论",
+              "heatNum": 21,
+              "author": "sohkamyung"
             },
             {
               "rank": 9,
-              "title": "Why the Ocean Cleanup Hasn't Solved the Plastic Pollution Crisis",
-              "url": "https://therevelator.org/why-ocean-cleanup-has-not-solved-plastic-pollution/",
-              "heat": "18分 · 9评论",
-              "heatNum": 18,
-              "author": "sohkamyung"
+              "title": "Windows brings out the Rorschach test in everyone (2003)",
+              "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+              "heat": "291分 · 106评论",
+              "heatNum": 291,
+              "author": "luu"
             },
             {
               "rank": 10,
               "title": "An elliptic curve of rank ≥ 30",
               "url": "https://elliptic-rank.icarm.cloud/curve/273",
-              "heat": "8分 · 2评论",
-              "heatNum": 8,
+              "heat": "9分 · 2评论",
+              "heatNum": 9,
               "author": "robinhouston"
             },
             {
               "rank": 11,
               "title": "An American Mosaic (interactive map of ancestry census data)",
               "url": "https://www.nytimes.com/interactive/2026/07/01/us/america-ancestry-census-data-map.html",
-              "heat": "16分 · 2评论",
-              "heatNum": 16,
+              "heat": "18分 · 3评论",
+              "heatNum": 18,
               "author": "cckolon"
             },
             {
@@ -11044,38 +11044,70 @@
             },
             {
               "rank": 13,
-              "title": "Every Model Cheats",
-              "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
-              "heat": "7分 · 2评论",
-              "heatNum": 7,
-              "author": "vga805"
+              "title": "Slack Code",
+              "url": "https://www.salesforce.com/introducing-slack-code/?bc=HL",
+              "heat": "4分 · 0评论",
+              "heatNum": 4,
+              "author": "trollied"
             },
             {
               "rank": 14,
-              "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
-              "url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
-              "heat": "37分 · 16评论",
-              "heatNum": 37,
-              "author": "leanderjanssen"
+              "title": "Every Model Cheats",
+              "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
+              "heat": "8分 · 3评论",
+              "heatNum": 8,
+              "author": "vga805"
             },
             {
               "rank": 15,
-              "title": "Risk Engineering",
-              "url": "https://risk-engineering.org/",
-              "heat": "44分 · 7评论",
-              "heatNum": 44,
-              "author": "throwaw12"
+              "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
+              "url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
+              "heat": "39分 · 17评论",
+              "heatNum": 39,
+              "author": "leanderjanssen"
             },
             {
               "rank": 16,
-              "title": "Router by Ramp",
-              "url": "https://router.com",
-              "heat": "86分 · 52评论",
-              "heatNum": 86,
-              "author": "zackfield"
+              "title": "Risk Engineering",
+              "url": "https://risk-engineering.org/",
+              "heat": "46分 · 7评论",
+              "heatNum": 46,
+              "author": "throwaw12"
             },
             {
               "rank": 17,
+              "title": "Xorg-Server 26.0.99.901",
+              "url": "https://lists.x.org/archives/xorg-announce/2026-August/003741.html",
+              "heat": "13分 · 0评论",
+              "heatNum": 13,
+              "author": "st_goliath"
+            },
+            {
+              "rank": 18,
+              "title": "CI jobs artifacts should not be difficult",
+              "url": "https://deadsimpleci.sparrowhub.io/doc/job-artifacts",
+              "heat": "10分 · 3评论",
+              "heatNum": 10,
+              "author": "melezhik"
+            },
+            {
+              "rank": 19,
+              "title": "Router by Ramp",
+              "url": "https://router.com",
+              "heat": "87分 · 52评论",
+              "heatNum": 87,
+              "author": "zackfield"
+            },
+            {
+              "rank": 20,
+              "title": "Grok.bot – the epic domain lottery ticket",
+              "url": "https://grok.bot/",
+              "heat": "5分 · 0评论",
+              "heatNum": 5,
+              "author": "bogdiyan"
+            },
+            {
+              "rank": 21,
               "title": "Turns are Better than Radians (2022)",
               "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
               "heat": "295分 · 156评论",
@@ -11083,47 +11115,39 @@
               "author": "mayoff"
             },
             {
-              "rank": 18,
+              "rank": 22,
               "title": "Bun 1.4",
               "url": "https://bun.com/blog/bun-v1.4",
-              "heat": "45分 · 11评论",
-              "heatNum": 45,
+              "heat": "47分 · 16评论",
+              "heatNum": 47,
               "author": "meetpateltech"
             },
             {
-              "rank": 19,
-              "title": "CI jobs artifacts should not be difficult",
-              "url": "https://deadsimpleci.sparrowhub.io/doc/job-artifacts",
-              "heat": "8分 · 3评论",
-              "heatNum": 8,
-              "author": "melezhik"
-            },
-            {
-              "rank": 20,
-              "title": "Xorg-Server 26.0.99.901",
-              "url": "https://lists.x.org/archives/xorg-announce/2026-August/003741.html",
-              "heat": "10分 · 0评论",
-              "heatNum": 10,
-              "author": "st_goliath"
-            },
-            {
-              "rank": 21,
-              "title": "A faster way to calculate the day of the week",
-              "url": "https://www.benjoffe.com/fast-day-of-week",
-              "heat": "221分 · 59评论",
-              "heatNum": 221,
-              "author": "gavide"
-            },
-            {
-              "rank": 22,
+              "rank": 23,
               "title": "AI didn't erase the junior engineer's value, it increased it it",
               "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
-              "heat": "48分 · 78评论",
-              "heatNum": 48,
+              "heat": "51分 · 80评论",
+              "heatNum": 51,
               "author": "franciscomt"
             },
             {
-              "rank": 23,
+              "rank": 24,
+              "title": "A faster way to calculate the day of the week",
+              "url": "https://www.benjoffe.com/fast-day-of-week",
+              "heat": "223分 · 60评论",
+              "heatNum": 223,
+              "author": "gavide"
+            },
+            {
+              "rank": 25,
+              "title": "Mojo is now open source!",
+              "url": "https://www.modular.com/blog/mojo-open-source",
+              "heat": "165分 · 47评论",
+              "heatNum": 165,
+              "author": "visheshdembla"
+            },
+            {
+              "rank": 26,
               "title": "Bufo pulls the andon cord",
               "url": "https://hatchet.run/blog/andon-cord",
               "heat": "7分 · 2评论",
@@ -11131,63 +11155,39 @@
               "author": "abelanger"
             },
             {
-              "rank": 24,
+              "rank": 27,
               "title": "Don't paste the AI, please",
               "url": "https://dontpastetheai.com/",
-              "heat": "898分 · 462评论",
-              "heatNum": 898,
+              "heat": "901分 · 469评论",
+              "heatNum": 901,
               "author": "pjerem"
             },
             {
-              "rank": 25,
-              "title": "Rivian OS 2",
-              "url": "https://xcancel.com/antibot/captcha",
-              "heat": "3分 · 6评论",
-              "heatNum": 3,
-              "author": "1970-01-01"
+              "rank": 28,
+              "title": "Zellij 0.45.0: nested sessions, Kitty graphics, a fresh UI",
+              "url": "https://zellij.dev/news/nested-sessions-kitty-graphics-new-ui/",
+              "heat": "12分 · 1评论",
+              "heatNum": 12,
+              "author": "peterhajas"
             },
             {
-              "rank": 26,
+              "rank": 29,
+              "title": "Canonical Backs New Project to Translate Large C Codebases into Safe Rust",
+              "url": "https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/",
+              "heat": "28分 · 20评论",
+              "heatNum": 28,
+              "author": "datakan"
+            },
+            {
+              "rank": 30,
               "title": "Sol loves to cheat",
               "url": "https://jumploops.com/blog/sol-loves-to-cheat/",
               "heat": "217分 · 177评论",
               "heatNum": 217,
               "author": "jumploops"
-            },
-            {
-              "rank": 27,
-              "title": "Canonical Backs New Project to Translate Large C Codebases into Safe Rust",
-              "url": "https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/",
-              "heat": "27分 · 20评论",
-              "heatNum": 27,
-              "author": "datakan"
-            },
-            {
-              "rank": 28,
-              "title": "UK internet age checks have boosted rogue adult sites, says Pornhub",
-              "url": "https://www.ft.com/content/295c2eba-da29-434d-84e0-e9de3b0b1cc2",
-              "heat": "42分 · 35评论",
-              "heatNum": 42,
-              "author": "thm"
-            },
-            {
-              "rank": 29,
-              "title": "I spent twenty years becoming good at the wrong game",
-              "url": "https://savvynormie.com/i-spent-twenty-years-becoming-good-at-the-wrong-game/",
-              "heat": "44分 · 52评论",
-              "heatNum": 44,
-              "author": "speckx"
-            },
-            {
-              "rank": 30,
-              "title": "Browser De-Slop",
-              "url": "https://www.sacredheartsc.com/blog/browser-de-slop/",
-              "heat": "47分 · 36评论",
-              "heatNum": 47,
-              "author": "cullumsmith"
             }
           ],
-          "updateTime": "2026-08-20T14:56:51.855Z"
+          "updateTime": "2026-08-20T15:00:17.055Z"
         },
         {
           "id": "best",
@@ -11205,8 +11205,8 @@
               "rank": 2,
               "title": "A joke domain purchase turned in geopolitical warfare",
               "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-              "heat": "982分 · 159评论",
-              "heatNum": 982,
+              "heat": "984分 · 159评论",
+              "heatNum": 984,
               "author": "kareiva"
             },
             {
@@ -11221,8 +11221,8 @@
               "rank": 4,
               "title": "Don't paste the AI, please",
               "url": "https://dontpastetheai.com/",
-              "heat": "898分 · 462评论",
-              "heatNum": 898,
+              "heat": "901分 · 469评论",
+              "heatNum": 901,
               "author": "pjerem"
             },
             {
@@ -11237,7 +11237,7 @@
               "rank": 6,
               "title": "Go 1.27",
               "url": "https://go.dev/blog/go1.27",
-              "heat": "725分 · 224评论",
+              "heat": "725分 · 225评论",
               "heatNum": 725,
               "author": "database64128"
             },
@@ -11261,7 +11261,7 @@
               "rank": 9,
               "title": "Remote workers report the highest well-being in study of 7,700 employees",
               "url": "https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees",
-              "heat": "605分 · 311评论",
+              "heat": "605分 · 313评论",
               "heatNum": 605,
               "author": "downbad_"
             },
@@ -11269,8 +11269,8 @@
               "rank": 10,
               "title": "Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma",
               "url": "https://twitter.com/NoubarAfeyan/status/2090050162441752787",
-              "heat": "581分 · 272评论",
-              "heatNum": 581,
+              "heat": "582分 · 272评论",
+              "heatNum": 582,
               "author": "heydenberk"
             },
             {
@@ -11341,7 +11341,7 @@
               "rank": 19,
               "title": "Sticky wage norms and the real wage cost of unexpected inflation",
               "url": "https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf",
-              "heat": "387分 · 273评论",
+              "heat": "387分 · 275评论",
               "heatNum": 387,
               "author": "jplusequalt"
             },
@@ -11349,8 +11349,8 @@
               "rank": 20,
               "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
               "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-              "heat": "376分 · 124评论",
-              "heatNum": 376,
+              "heat": "384分 · 124评论",
+              "heatNum": 384,
               "author": "emctech"
             },
             {
@@ -11379,19 +11379,19 @@
             },
             {
               "rank": 24,
+              "title": "Unsloth Dynamic 3.0 GGUFs",
+              "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+              "heat": "311分 · 113评论",
+              "heatNum": 311,
+              "author": "jonesy827"
+            },
+            {
+              "rank": 25,
               "title": "Field measurements of neighborhood-scale air temperature impacts of data centers",
               "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
               "heat": "311分 · 500评论",
               "heatNum": 311,
               "author": "cwwc"
-            },
-            {
-              "rank": 25,
-              "title": "Unsloth Dynamic 3.0 GGUFs",
-              "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
-              "heat": "310分 · 113评论",
-              "heatNum": 310,
-              "author": "jonesy827"
             },
             {
               "rank": 26,
@@ -11434,7 +11434,7 @@
               "author": "tyre"
             }
           ],
-          "updateTime": "2026-08-20T14:56:58.729Z"
+          "updateTime": "2026-08-20T15:00:17.164Z"
         },
         {
           "id": "new",
@@ -11442,14 +11442,30 @@
           "items": [
             {
               "rank": 1,
-              "title": "Show HN: SyncHours – drag one slider to find your remote team's overlap hours",
-              "url": "https://play.google.com/store/apps/details?id=com.synchours.app&hl=en_US",
+              "title": "Open Source Is Not a Virtue: It's an Ownership Model",
+              "url": "https://blog.mozilla.ai/open-source-is-not-a-virtue-its-an-ownership-model/",
               "heat": "1分 · 0评论",
               "heatNum": 1,
-              "author": "gabrielbrangers"
+              "author": "angpt"
             },
             {
               "rank": 2,
+              "title": "R2 Autonomy+ Roadmap",
+              "url": "https://stories.rivian.com/r2-autonomy-roadmap-software",
+              "heat": "1分 · 0评论",
+              "heatNum": 1,
+              "author": "whicks"
+            },
+            {
+              "rank": 3,
+              "title": "I built an extension that autofills workday job apps all locally on your device",
+              "url": "https://restdayextension.com/",
+              "heat": "1分 · 0评论",
+              "heatNum": 1,
+              "author": "angelm-tech"
+            },
+            {
+              "rank": 4,
               "title": "Show HN: LLM-enabled large data analysis",
               "url": "https://app.verbagpt.com",
               "heat": "1分 · 0评论",
@@ -11457,15 +11473,15 @@
               "author": "symuz"
             },
             {
-              "rank": 3,
+              "rank": 5,
               "title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees",
               "url": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html",
-              "heat": "1分 · 0评论",
+              "heat": "1分 · 1评论",
               "heatNum": 1,
               "author": "tiahura"
             },
             {
-              "rank": 4,
+              "rank": 6,
               "title": "Hiding internal state in TypeScript objects",
               "url": "https://www.carlos-menezes.com/posts/hiding-properties-typescript",
               "heat": "2分 · 0评论",
@@ -11473,7 +11489,7 @@
               "author": "carlos-menezes"
             },
             {
-              "rank": 5,
+              "rank": 7,
               "title": "JIT Compiling Code in 5μs",
               "url": "https://malisper.me/jit-compiling-code-in-5-us/",
               "heat": "1分 · 0评论",
@@ -11481,7 +11497,7 @@
               "author": "malisper"
             },
             {
-              "rank": 6,
+              "rank": 8,
               "title": "Meta's Internal Research",
               "url": "https://metasinternalresearch.org",
               "heat": "1分 · 1评论",
@@ -11489,15 +11505,15 @@
               "author": "throw0101d"
             },
             {
-              "rank": 7,
+              "rank": 9,
               "title": "US retail giant Target doubles $1 BILLION income last quarter via tariff refunds",
               "url": "https://www.bbc.com/news/articles/c78gp4y8d3eo",
-              "heat": "1分 · 2评论",
+              "heat": "1分 · 3评论",
               "heatNum": 1,
               "author": "ck2"
             },
             {
-              "rank": 8,
+              "rank": 10,
               "title": "New Manic Android malware can exfiltrate data through nearby devices",
               "url": "https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/",
               "heat": "2分 · 0评论",
@@ -11505,7 +11521,7 @@
               "author": "Brajeshwar"
             },
             {
-              "rank": 9,
+              "rank": 11,
               "title": "Teachers Pay Teachers hit by a wave of A.I. content with mistakes [video]",
               "url": "https://www.youtube.com/watch?v=qBVzsolalJ8",
               "heat": "1分 · 0评论",
@@ -11513,7 +11529,7 @@
               "author": "pavel_lishin"
             },
             {
-              "rank": 10,
+              "rank": 12,
               "title": "Could AIs Become Conscious?",
               "url": "https://economist.com/leaders/2026/08/20/could-ais-become-conscious",
               "heat": "1分 · 1评论",
@@ -11521,7 +11537,7 @@
               "author": "andsoitis"
             },
             {
-              "rank": 11,
+              "rank": 13,
               "title": "State of SaaSpocalypse",
               "url": "https://app.agentgrid.io/artifacts/BSSoRuFsywQAyzxDAsbmUg",
               "heat": "1分 · 1评论",
@@ -11529,7 +11545,7 @@
               "author": "avishic"
             },
             {
-              "rank": 12,
+              "rank": 14,
               "title": "One human. Agents. 3,913 merged PRs in 30 days",
               "url": "https://github.com/kungfu-systems/site-libkungfu-dev/blob/main/docs/research/parallel-runtime-paths.md",
               "heat": "1分 · 0评论",
@@ -11537,7 +11553,7 @@
               "author": "ungfu"
             },
             {
-              "rank": 13,
+              "rank": 15,
               "title": "Spec4j makes your REST APIs YAMLless",
               "url": "https://github.com/marketplace/actions/spec4j",
               "heat": "2分 · 2评论",
@@ -11545,7 +11561,7 @@
               "author": "enismustafaj"
             },
             {
-              "rank": 14,
+              "rank": 16,
               "title": "Help to Improve Numax's Website?",
               "url": "https://github.com/GianIac/numax/issues/111",
               "heat": "1分 · 1评论",
@@ -11553,7 +11569,7 @@
               "author": "gianiac"
             },
             {
-              "rank": 15,
+              "rank": 17,
               "title": "Instant (Instantdb.com) Sunsetting",
               "url": "https://discord.com/channels/1031957483243188235/1148279464132890714/1540001948596445324",
               "heat": "2分 · 2评论",
@@ -11561,7 +11577,7 @@
               "author": "ibejoeb"
             },
             {
-              "rank": 16,
+              "rank": 18,
               "title": "Polchinski's Paradox",
               "url": "https://www.futilitycloset.com/2026/08/12/polchinskis-paradox/",
               "heat": "2分 · 0评论",
@@ -11569,7 +11585,7 @@
               "author": "surprisetalk"
             },
             {
-              "rank": 17,
+              "rank": 19,
               "title": "We trained small language models specifically for voice-to-text transformation",
               "url": "https://superwhisper.com/blog/s1",
               "heat": "2分 · 1评论",
@@ -11577,7 +11593,7 @@
               "author": "bpjzy"
             },
             {
-              "rank": 18,
+              "rank": 20,
               "title": "Code Factories Without Quality: The AI Development Blind Spot",
               "url": "https://www.qawolf.com/blog/code-factories-without-quality",
               "heat": "2分 · 0评论",
@@ -11585,7 +11601,7 @@
               "author": "BinRoo"
             },
             {
-              "rank": 19,
+              "rank": 21,
               "title": "Show HN: Open-source Stripe Connect alternative",
               "url": "https://zoneless.com",
               "heat": "4分 · 1评论",
@@ -11593,7 +11609,7 @@
               "author": "tinyprojects"
             },
             {
-              "rank": 20,
+              "rank": 22,
               "title": "Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours",
               "url": "https://pub.doub.ly/",
               "heat": "3分 · 0评论",
@@ -11601,7 +11617,7 @@
               "author": "knaught"
             },
             {
-              "rank": 21,
+              "rank": 23,
               "title": "I Finally Got Discouraged By DevTo",
               "url": "https://thibaultduponchelle.github.io/I-finally-got-discouraged-by-devto",
               "heat": "1分 · 0评论",
@@ -11609,7 +11625,7 @@
               "author": "reeeese"
             },
             {
-              "rank": 22,
+              "rank": 24,
               "title": "Stealing Blame",
               "url": "https://avivbenyosef.com/stealing-blame/",
               "heat": "1分 · 0评论",
@@ -11617,7 +11633,7 @@
               "author": "avivby"
             },
             {
-              "rank": 23,
+              "rank": 25,
               "title": "Show HN: Ullis – Local Ternary Moe-Kan Training and Inference Engine in Rust",
               "url": "https://github.com/Vladislav-Kalinkin/ullis",
               "heat": "1分 · 0评论",
@@ -11625,15 +11641,15 @@
               "author": "vlad_kalinkin"
             },
             {
-              "rank": 24,
+              "rank": 26,
               "title": "Just Fucking Use Neovim",
               "url": "https://www.justfuckinguseneovim.com/",
-              "heat": "2分 · 0评论",
-              "heatNum": 2,
+              "heat": "3分 · 0评论",
+              "heatNum": 3,
               "author": "hacb"
             },
             {
-              "rank": 25,
+              "rank": 27,
               "title": "Silencing the Second Hand of a Second-Hand Bird Clock",
               "url": "https://www.kyleniewiada.org/blog/2026/08/silencing-bird-clock-tick-tock/",
               "heat": "1分 · 0评论",
@@ -11641,7 +11657,7 @@
               "author": "speckx"
             },
             {
-              "rank": 26,
+              "rank": 28,
               "title": "Is Claude Code a bad harness?",
               "url": "https://generray.substack.com/p/is-claude-code-a-bad-harness",
               "heat": "2分 · 1评论",
@@ -11649,39 +11665,23 @@
               "author": "wsun19"
             },
             {
-              "rank": 27,
+              "rank": 29,
               "title": "ProgramBench Vetted: Reverse Engineering from a Runnable Binary",
               "url": "https://vetto.ai/companies/programbench-vetted.html",
-              "heat": "9分 · 0评论",
-              "heatNum": 9,
+              "heat": "10分 · 0评论",
+              "heatNum": 10,
               "author": "rigelbm"
             },
             {
-              "rank": 28,
+              "rank": 30,
               "title": "Apple leaked many features in a release, will it not be a flop? [video]",
               "url": "https://www.youtube.com/watch?v=q8Zd1dMK1uA",
               "heat": "2分 · 0评论",
               "heatNum": 2,
               "author": "ltononro"
-            },
-            {
-              "rank": 29,
-              "title": "Grok.bot – the epic domain lottery ticket",
-              "url": "https://grok.bot/",
-              "heat": "2分 · 0评论",
-              "heatNum": 2,
-              "author": "bogdiyan"
-            },
-            {
-              "rank": 30,
-              "title": "The \"Kerry Cow\" Wasn't a Cow at All–and It Upends Stone Age Irish History",
-              "url": "https://nautil.us/the-kerry-cow-wasnt-a-cow-at-all-and-it-upends-stone-age-irish-history-1283999",
-              "heat": "2分 · 0评论",
-              "heatNum": 2,
-              "author": "Brajeshwar"
             }
           ],
-          "updateTime": "2026-08-20T14:57:04.220Z"
+          "updateTime": "2026-08-20T15:00:17.275Z"
         }
       ]
     },
